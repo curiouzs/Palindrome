@@ -1,4 +1,4 @@
-# Palindrome
+# loki gamgster
 ## Aim:
 To write a C# program to find whether the given string is a Palindrome or not.
 ## Algorithm:
@@ -41,18 +41,19 @@ namespace palindrome
             }
             if (revs == s)
             {
-                Console.WriteLine("String is Palindrome");
+                Console.WriteLine("{0} is Palindrome", revs);
             }
             else
             {
-                Console.WriteLine("String is not Palindrome");
+                Console.WriteLine("{0} is not Palindrome", s);
             }
         }
     }
 }
 ```
 ## Output:
-![Screenshot from 2022-09-07 04-11-31](https://user-images.githubusercontent.com/75234646/188787460-47474c30-738a-431b-be94-03b90e0e47ab.png)
+![mala](https://user-images.githubusercontent.com/75234646/188787954-fc86adc1-88c1-42b7-87b3-a6e8543fba4d.png)
+
 
 ## Result:
 Thus the C# program to display whether the given string is Palindrome or not is executed successfully.
